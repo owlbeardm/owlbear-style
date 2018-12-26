@@ -31,8 +31,8 @@
     &:focus,
     &.focus {
       color: $color;
-      background-color: $active-background;
-      border-color: $active-border;
+      background-color: $focus-background;
+      border-color: $focus-border;
     }
   }
 
