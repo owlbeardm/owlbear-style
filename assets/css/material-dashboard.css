@@ -11480,9 +11480,10 @@ a[aria-expanded="true"] .caret,
   .main-panel > .content {
     margin-top: 70px;
     padding: 30px 15px;
-    min-height: calc(100vh - 123px); }
+    min-height: calc(100vh - 154px); }
   .main-panel > .footer {
-    border-top: 1px solid #e7e7e7; }
+    border-top: none;
+    color: #A3917A; }
   .main-panel > .navbar {
     margin-bottom: 0; }
   .main-panel .header {

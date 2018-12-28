@@ -366,11 +366,12 @@
     > .content{
         margin-top: 70px;
         padding: 30px 15px;
-        min-height: calc(100vh - 123px);
+        min-height: calc(100vh - 154px);
     }
 
     > .footer{
-        border-top: 1px solid #e7e7e7;
+        border-top: none;
+        color: #A3917A;
     }
 
     > .navbar{
