@@ -9,6 +9,6 @@ notifications:
     - owlbeardm@gmail.com
 install:
 - yarn
-- yarn install --force
-script:
-- yarn gulp compile-scss
+# - yarn install --force
+# script:
+# - yarn gulp compile-scss
