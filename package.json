@@ -1,6 +1,6 @@
 {
   "name": "owlbear-style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Styles for owlbeardm apps",
   "main": "index.js",
   "repository": "git@github.com:owlbeardm/owlbear-style.git",
